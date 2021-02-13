@@ -9,7 +9,7 @@ Each notebook is labeled corresponding to its associated figure in the main text
 [Here](https://github.com/MSELab/) is a link to the main folder containing the code.
 
 # Acknowledgements
-We would like to thank [Trent Robinett](https://www.linkedin.com/in/trent-robinett-5a8979161/) for his contributions towards completion of the manuscript. In particular, we would like to highlight his efforts in carrying out experiments alongside [Dharsan Soundarrajan](https://scholar.google.com/citations?user=AWv4OiIAAAAJ&hl=en
+We would like to thank [Trent Robinett](https://www.linkedin.com/in/trent-robinett-5a8979161/) for his contributions towards completion of the manuscript. In particular, we would like to highlight his efforts in carrying out experiments alongside [Dharsan Soundarrajan](https://scholar.google.com/citations?user=AWv4OiIAAAAJ&hl=en).
 
 The work in this manuscript was supported by NIH Grant R35GM124935 and NSF Award CBET-1553826. The authors gratefully acknowledge the Notre Dame Center for Research Computing (CRC) for providing computational facilities in addition to [members of the Zartman Lab](http://sites.nd.edu/zartmanlab/members/) for helpful discussions and feedback.
 
