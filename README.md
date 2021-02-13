@@ -6,7 +6,7 @@ All code was done using [Jupyter](https://jupyter.org/) notebooks where all code
 
 Each notebook is labeled corresponding to its associated figure in the main text of the manuscript. The 'stochastic' and 'geometry' folders are required to run the code. All simulation outputs were coded to be saved in the 'simulationResults' folder, and are labeled according to figure numbers. Use of [Epitools](https://epitools.ausvet.com.au/) was done to create a 2-D geometrically accurate representation of the Drosophila wing imaginal disc. The corresponding folder for this is in the 'epitools (Figure S1 Creation)' folder.
 
-[Here](https://github.com/MSELab/) is a link to the main folder containing the code.
+[Here](https://github.com/MSELab/Calcium_Cartography_2021/tree/main/Python%20Code) is a link to the main folder containing the code.
 
 # Acknowledgements
 We would like to thank [Trent Robinett](https://www.linkedin.com/in/trent-robinett-5a8979161/) for his contributions towards completion of the manuscript. In particular, we would like to highlight his efforts in carrying out experiments alongside [Dharsan Soundarrajan](https://scholar.google.com/citations?user=AWv4OiIAAAAJ&hl=en).
